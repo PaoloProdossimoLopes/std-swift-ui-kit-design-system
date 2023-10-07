@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ds_fontSize_none</key>
+	<integer>0</integer>
+	<key>ds_fontSize_micro</key>
+	<integer>2</integer>
+	<key>ds_fontSize_tiny</key>
+	<integer>4</integer>
+	<key>ds_fontSize_xxSmall</key>
+	<integer>8</integer>
+	<key>ds_fontSize_xSmall</key>
+	<integer>12</integer>
+	<key>ds_fontSize_small</key>
+	<integer>16</integer>
+	<key>ds_fontSize_medium</key>
+	<integer>18</integer>
+	<key>ds_fontSize_large</key>
+	<integer>32</integer>
+	<key>ds_fontSize_xLarge</key>
+	<integer>64</integer>
+	<key>ds_fontSize_xxLarge</key>
+	<integer>72</integer>
+</dict>
+</plist>

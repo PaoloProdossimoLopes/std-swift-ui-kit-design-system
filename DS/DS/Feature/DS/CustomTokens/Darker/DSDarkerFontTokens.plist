@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ds_font_thin</key>
+	<string>Roboto-Thin</string>
+	<key>ds_font_light</key>
+	<string>Roboto-Light</string>
+	<key>ds_font_regular</key>
+	<string>Roboto-Regular</string>
+	<key>ds_font_medium</key>
+	<string>Roboto-Medium</string>
+	<key>ds_font_demibold</key>
+	<string>Roboto-Bold</string>
+	<key>ds_font_bold</key>
+	<string>Roboto-Bold</string>
+	<key>ds_font_black</key>
+	<string>Roboto-Black</string>
+	<key>ds_font_heavy</key>
+	<string>Roboto-Black</string>
+</dict>
+</plist>

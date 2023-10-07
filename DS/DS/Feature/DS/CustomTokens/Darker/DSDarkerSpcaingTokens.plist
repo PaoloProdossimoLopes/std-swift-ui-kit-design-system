@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ds_spacing_none</key>
+	<integer>0</integer>
+	<key>ds_spacing_micro</key>
+	<integer>2</integer>
+	<key>ds_spacing_tiny</key>
+	<integer>4</integer>
+	<key>ds_spacing_xxSmall</key>
+	<integer>6</integer>
+	<key>ds_spacing_xSmall</key>
+	<integer>8</integer>
+	<key>ds_spacing_small</key>
+	<integer>12</integer>
+	<key>ds_spacing_medium</key>
+	<integer>14</integer>
+	<key>ds_spacing_large</key>
+	<integer>18</integer>
+	<key>ds_spacing_xLarge</key>
+	<integer>24</integer>
+	<key>ds_spacing_xxLarge</key>
+	<integer>32</integer>
+</dict>
+</plist>

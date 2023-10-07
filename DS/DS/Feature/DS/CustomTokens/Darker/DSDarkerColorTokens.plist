@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ds_color_primary_onLightMode</key>
+	<string>#fcba03</string>
+	<key>ds_color_primary_onDarkMode</key>
+	<string>#fcba03</string>
+	<key>ds_color_privary_variant_01_onLightMode</key>
+	<string>#fcba03</string>
+	<key>ds_color_privary_variant_01_onDarkMode</key>
+	<string>#fcba03</string>
+	<key>ds_color_privary_variant_02_onLightMode</key>
+	<string>#fcba03</string>
+	<key>ds_color_privary_variant_02_onDarkMode</key>
+	<string>#fcba03</string>
+	<key>ds_color_secundary_onLightMode</key>
+	<string>#fc2403</string>
+	<key>ds_color_secundary_onDarkMode</key>
+	<string>#fc2403</string>
+	<key>ds_color_secundary_variant_01_onLightMode</key>
+	<string>#fc2403</string>
+	<key>ds_color_secundary_variant_01_onDarkMode</key>
+	<string>#fc2403</string>
+	<key>ds_color_secundary_variant_02_onLightMode</key>
+	<string>#fc2403</string>
+	<key>ds_color_secundary_variant_02_onDarkMode</key>
+	<string>#fc2403</string>
+	<key>ds_color_backgorund_onLightMode</key>
+	<string>#03befc</string>
+	<key>ds_color_backgorund_onDarkMode</key>
+	<string>#03befc</string>
+	<key>ds_color_backgorund_variant_01_onLightMode</key>
+	<string>#03befc</string>
+	<key>ds_color_backgorund_variant_01_onDarkMode</key>
+	<string>#03befc</string>
+	<key>ds_color_backgorund_variant_02_onLightMode</key>
+	<string>#03befc</string>
+	<key>ds_color_backgorund_variant_02_onDarkMode</key>
+	<string>#03befc</string>
+</dict>
+</plist>
